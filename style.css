@@ -18,6 +18,7 @@
   border-radius: 0.5rem;
   overflow: hidden;
   margin-top: 4rem; 
+  box-shadow: 42px 32px 25px 55px;
 }
 
 .slide{
@@ -30,6 +31,7 @@
   place-items: center;
   transition: all 0.25s ease-in-out;
   text-align: center;
+  box-shadow: 42px 32px 25px 55px;
 }
 .buttonContainer{
     text-align: center;
@@ -44,6 +46,7 @@ border: none;
 background-color: tomato;
 color: aliceblue;
 box-shadow: 2px 2px 25px;
+cursor: pointer;
 }
 .slide{
     /* transform: translateX(-300%); */
